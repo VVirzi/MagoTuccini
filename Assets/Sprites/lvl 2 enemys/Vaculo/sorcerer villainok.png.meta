@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 79c1f78885114e9498e5f17514c388b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sorcerer villainok_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 16
+        width: 54
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf04888146cf6bf47bb3280156311f72
+      internalID: -2105189930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 16
+        width: 60
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d280b711dcd22459eda3f21e4b33b4
+      internalID: 1478162689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 16
+        width: 60
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303463cb441bc8c4ba93747fbcc5f9cc
+      internalID: 1517716855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 16
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684ef6d6268c3d40898cd13b4e75684
+      internalID: -257904991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 90
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3558b8366d9670a4e98c79f0bf1a8ad2
+      internalID: -958007508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 16
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c5937ad862e0541838858e3bdb9475
+      internalID: -48425612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sorcerer villainok_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ba34e476bf854f90ad8a4677b3eae
+      internalID: -1256779035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sorcerer villainok_0: -2105189930
+      sorcerer villainok_1: 1478162689
+      sorcerer villainok_10: -2084670693
+      sorcerer villainok_11: -1800239782
+      sorcerer villainok_12: 362526960
+      sorcerer villainok_13: 1096580147
+      sorcerer villainok_14: 752628996
+      sorcerer villainok_15: 998106062
+      sorcerer villainok_16: 373272549
+      sorcerer villainok_17: -1256779035
+      sorcerer villainok_18: -1857206708
+      sorcerer villainok_19: 1676722300
+      sorcerer villainok_2: 1517716855
+      sorcerer villainok_20: -1391019282
+      sorcerer villainok_21: 91339053
+      sorcerer villainok_22: -2099273739
+      sorcerer villainok_23: -1352835057
+      sorcerer villainok_24: -186589840
+      sorcerer villainok_25: -575365497
+      sorcerer villainok_26: -1070734649
+      sorcerer villainok_27: 1687829080
+      sorcerer villainok_28: -1906243540
+      sorcerer villainok_29: 693527192
+      sorcerer villainok_3: -257904991
+      sorcerer villainok_30: -1025596525
+      sorcerer villainok_31: -1213055839
+      sorcerer villainok_32: 1279129852
+      sorcerer villainok_33: -1689740748
+      sorcerer villainok_34: 609484607
+      sorcerer villainok_35: 255172149
+      sorcerer villainok_36: 173233749
+      sorcerer villainok_37: 510675089
+      sorcerer villainok_38: -1710500564
+      sorcerer villainok_39: -361155874
+      sorcerer villainok_4: 2013357454
+      sorcerer villainok_40: -790206122
+      sorcerer villainok_41: 483154298
+      sorcerer villainok_5: 581096685
+      sorcerer villainok_6: 1229880636
+      sorcerer villainok_7: -997414911
+      sorcerer villainok_8: -958007508
+      sorcerer villainok_9: -48425612
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
